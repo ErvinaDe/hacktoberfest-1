@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ErvinaDe](https://github.com/ErvinaDe)
+- Place: Sarajevo, Bosnia and Herzegowina
+- Bio: Student
+- GitHub: [ErvinaDe](https://github.com/ErvinaDe)
